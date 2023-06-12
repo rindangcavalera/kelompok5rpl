@@ -1,0 +1,21 @@
+Tahap Analisis dan Perancangan: 2 minggu
+Waktu ini diperlukan untuk menganalisis kebutuhan pengguna, merancang antarmuka pengguna, dan merancang struktur database.
+
+Tahap Pengembangan Awal: 3 minggu
+Waktu ini diperlukan untuk mengimplementasikan fitur registrasi pengguna, otentikasi, otorisasi, manajemen profil pengguna, dan fitur pembuatan kelas atau grup.
+
+Tahap Pengembangan Forum Diskusi: 4 minggu
+Waktu ini diperlukan untuk mengimplementasikan fitur pembuatan thread baru, balasan pada thread, lampiran berkas/gambar, serta melihat dan mencari thread.
+
+Tahap Notifikasi dan Pemberitahuan: 1 minggu
+Waktu ini diperlukan untuk mengimplementasikan sistem notifikasi untuk thread yang diikuti, tanggapan pada thread, dan pengumuman dari guru.
+
+Tahap Pengujian dan Penyempurnaan: 2 minggu
+Waktu ini diperlukan untuk melakukan pengujian menyeluruh, mengumpulkan umpan balik pengguna, dan melakukan perbaikan dan penyempurnaan berdasarkan hasil pengujian.
+
+Tahap Peluncuran dan Pemeliharaan: Dilakukan setelah aplikasi selesai dan dapat digunakan. Pemeliharaan aplikasi akan terus dilakukan secara berkala untuk memperbaiki bug dan mengimplementasikan pembaruan sesuai kebutuhan pengguna.
+
+Cara mendapatkan estimasi waktu ini adalah dengan menguraikan setiap tahap pengembangan dan mengestimasikan waktu yang diperlukan berdasarkan kompleksitas fitur, kerja tim, dan sumber daya yang tersedia. Estimasi waktu ini bersifat relatif dan dapat berbeda tergantung pada keadaan proyek dan tim pengembang yang terlibat.
+
+
+
